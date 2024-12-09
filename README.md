@@ -7,4 +7,5 @@
 3. > Recomendo usar o WSL
 ## Como rodar: 
 1. > Entrar na pasta raiz
-2. > Dar npm install   
+2. > Dar npm install
+3. > npm run dev 
