@@ -1,11 +1,13 @@
-import { useState } from 'react'
 import Header from './layout/Header';
-
+import './App.css'
 
 function App() {
   return (
     <>
-      <Header />
+    <div className='bg-bg-light min-h-screen'>
+        <Header />
+    
+    </div>
     </>
   )
 }
